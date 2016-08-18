@@ -1,0 +1,5 @@
+D:\Code\Misc\GeoCalculator\Geolocation\bin\Debug\Geolocation.dll
+D:\Code\Misc\GeoCalculator\Geolocation\bin\Debug\Geolocation.pdb
+D:\Code\Misc\GeoCalculator\Geolocation\obj\Debug\Geolocation.csprojResolveAssemblyReference.cache
+D:\Code\Misc\GeoCalculator\Geolocation\obj\Debug\Geolocation.dll
+D:\Code\Misc\GeoCalculator\Geolocation\obj\Debug\Geolocation.pdb

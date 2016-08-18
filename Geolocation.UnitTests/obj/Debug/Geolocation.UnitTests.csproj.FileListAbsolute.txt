@@ -1,0 +1,9 @@
+D:\Code\Misc\GeoCalculator\Geolocation.UnitTests\bin\Debug\Geolocation.UnitTests.dll
+D:\Code\Misc\GeoCalculator\Geolocation.UnitTests\bin\Debug\Geolocation.UnitTests.pdb
+D:\Code\Misc\GeoCalculator\Geolocation.UnitTests\bin\Debug\Geolocation.dll
+D:\Code\Misc\GeoCalculator\Geolocation.UnitTests\bin\Debug\nunit.framework.dll
+D:\Code\Misc\GeoCalculator\Geolocation.UnitTests\bin\Debug\Geolocation.pdb
+D:\Code\Misc\GeoCalculator\Geolocation.UnitTests\bin\Debug\nunit.framework.xml
+D:\Code\Misc\GeoCalculator\Geolocation.UnitTests\obj\Debug\Geolocation.UnitTests.csprojResolveAssemblyReference.cache
+D:\Code\Misc\GeoCalculator\Geolocation.UnitTests\obj\Debug\Geolocation.UnitTests.dll
+D:\Code\Misc\GeoCalculator\Geolocation.UnitTests\obj\Debug\Geolocation.UnitTests.pdb
